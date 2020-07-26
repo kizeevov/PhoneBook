@@ -1,0 +1,4059 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AddressBook>
+    <version>1</version>
+    <pbgroup>
+        <id>0</id>
+        <name>Default</name>
+        <photos></photos>
+        <ringtones></ringtones>
+        <RingtoneIndex>0</RingtoneIndex>
+    </pbgroup>
+    <pbgroup>
+        <id>248</id>
+        <name>malom4</name>
+        <photos>Default</photos>
+        <ringtones></ringtones>
+        <RingtoneIndex>0</RingtoneIndex>
+    </pbgroup>
+    <pbgroup>
+        <id>100</id>
+        <name>Blacklist</name>
+        <photos></photos>
+        <ringtones></ringtones>
+        <RingtoneIndex>0</RingtoneIndex>
+    </pbgroup>
+    <Contact>
+        <id>1</id>
+        <FirstName>кв.1</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Mobile">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>2</id>
+        <FirstName>кв.2</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Mobile">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>3</id>
+        <FirstName>кв.3</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>4</id>
+        <FirstName>кв.4</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Mobile">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>5</id>
+        <FirstName>кв.5</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Mobile">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>6</id>
+        <FirstName>кв.6</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>7</id>
+        <FirstName>кв.7</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>8</id>
+        <FirstName>кв.8</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Mobile">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>9</id>
+        <FirstName>кв.9</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Mobile">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>10</id>
+        <FirstName>кв.10</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>11</id>
+        <FirstName>кв.11</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>12</id>
+        <FirstName>кв.12</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>13</id>
+        <FirstName>кв.13</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Mobile">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>14</id>
+        <FirstName>кв.14</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>15</id>
+        <FirstName>кв.15</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>16</id>
+        <FirstName>кв.16</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Work">
+            <phonenumber></phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>17</id>
+        <FirstName>кв.17</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>18</id>
+        <FirstName>кв.18</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>19</id>
+        <FirstName>кв.19</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Mobile">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>20</id>
+        <FirstName>кв.20</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Mobile">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>21</id>
+        <FirstName>кв.21</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Mobile">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>22</id>
+        <FirstName>кв.22</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>23</id>
+        <FirstName>кв.23</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Mobile">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>24</id>
+        <FirstName>кв.24</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Mobile">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>25</id>
+        <FirstName>кв.25</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>26</id>
+        <FirstName>кв.26</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>27</id>
+        <FirstName>кв.27</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Mobile">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>28</id>
+        <FirstName>кв.28</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>29</id>
+        <FirstName>кв.29</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>30</id>
+        <FirstName>кв.30</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Mobile">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>31</id>
+        <FirstName>кв.31</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Mobile">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>32</id>
+        <FirstName>кв.32</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>33</id>
+        <FirstName>кв.33</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>34</id>
+        <FirstName>кв.34</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Mobile">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>35</id>
+        <FirstName>кв.35</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>36</id>
+        <FirstName>кв.36</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>37</id>
+        <FirstName>кв.37</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>38</id>
+        <FirstName>кв.38</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Mobile">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>39</id>
+        <FirstName>кв.39</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Mobile">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>40</id>
+        <FirstName>кв.40</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Mobile">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>41</id>
+        <FirstName>кв.41</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Mobile">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>42</id>
+        <FirstName>кв.42</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>43</id>
+        <FirstName>кв.43</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Mobile">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>44</id>
+        <FirstName>кв.44</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>45</id>
+        <FirstName>кв.45</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Mobile">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>46</id>
+        <FirstName>кв.46</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>47</id>
+        <FirstName>кв.47</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>48</id>
+        <FirstName>кв.48</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Mobile">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>49</id>
+        <FirstName>кв.49</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>50</id>
+        <FirstName>кв.50,77</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Mobile">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>51</id>
+        <FirstName>кв.51</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Mobile">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>52</id>
+        <FirstName>кв.52</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Mobile">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>53</id>
+        <FirstName>кв.53</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>54</id>
+        <FirstName>кв.54</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>55</id>
+        <FirstName>кв.55</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Work">
+            <phonenumber></phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>56</id>
+        <FirstName>кв.56</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>57</id>
+        <FirstName>кв.57</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>58</id>
+        <FirstName>кв.58</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Mobile">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>59</id>
+        <FirstName>кв.59</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Mobile">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>60</id>
+        <FirstName>кв.60</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>61</id>
+        <FirstName>кв.61</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Mobile">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>62</id>
+        <FirstName>кв.62,64,73</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>1</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Mobile">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>63</id>
+        <FirstName>кв.63</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>64</id>
+        <FirstName>кв.65,66,67,68</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Mobile">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>65</id>
+        <FirstName>кв.69</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Mobile">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>66</id>
+        <FirstName>кв.70</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Mobile">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>67</id>
+        <FirstName>кв.71</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Mobile">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>68</id>
+        <FirstName>кв.72</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>69</id>
+        <FirstName>кв.74</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>1</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Mobile">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>70</id>
+        <FirstName>кв.75</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>71</id>
+        <FirstName>кв.76</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Work">
+            <phonenumber></phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>72</id>
+        <FirstName>кв.78</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Mobile">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>73</id>
+        <FirstName>кв.79</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>74</id>
+        <FirstName>кв.80,89,90</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Mobile">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>75</id>
+        <FirstName>кв.81</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Mobile">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>76</id>
+        <FirstName>кв.82</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>77</id>
+        <FirstName>кв.83</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Mobile">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>78</id>
+        <FirstName>кв.84</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Mobile">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>79</id>
+        <FirstName>кв.85,114</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Mobile">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>80</id>
+        <FirstName>кв.86</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Mobile">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>81</id>
+        <FirstName>кв.87</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>82</id>
+        <FirstName>кв.88</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>83</id>
+        <FirstName>кв.89,90,80</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Work">
+            <phonenumber></phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>84</id>
+        <FirstName>кв.91</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Mobile">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>85</id>
+        <FirstName>кв.92</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>86</id>
+        <FirstName>кв.93,118</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Mobile">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>87</id>
+        <FirstName>кв.94</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Mobile">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>88</id>
+        <FirstName>кв.95</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Mobile">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>89</id>
+        <FirstName>кв.96</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Mobile">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>90</id>
+        <FirstName>кв.97</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Mobile">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>91</id>
+        <FirstName>кв.98,99</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>92</id>
+        <FirstName>кв.100</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>93</id>
+        <FirstName>кв.101</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>94</id>
+        <FirstName>кв.102</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Work">
+            <phonenumber></phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>95</id>
+        <FirstName>кв.103</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>96</id>
+        <FirstName>кв.104</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Mobile">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>97</id>
+        <FirstName>кв.105</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>98</id>
+        <FirstName>кв.106</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Work">
+            <phonenumber></phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>99</id>
+        <FirstName>кв.107</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Mobile">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>100</id>
+        <FirstName>кв.108</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Mobile">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>101</id>
+        <FirstName>кв.109</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Mobile">
+            <phonenumber>0000</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>102</id>
+        <FirstName>кв.110</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Mobile">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>103</id>
+        <FirstName>кв.111,112</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Mobile">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>104</id>
+        <FirstName>кв.113</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>105</id>
+        <FirstName>кв.115</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>106</id>
+        <FirstName>кв.116</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Mobile">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>107</id>
+        <FirstName>кв.117</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Mobile">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>108</id>
+        <FirstName>кв.119</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Mobile">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>109</id>
+        <FirstName>кв.120</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Mobile">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>110</id>
+        <FirstName>кв.121</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>111</id>
+        <FirstName>кв.122</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>112</id>
+        <FirstName>кв.123</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>113</id>
+        <FirstName>кв.124</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Mobile">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>114</id>
+        <FirstName>кв.125,126</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Mobile">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>115</id>
+        <FirstName>кв.127</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Mobile">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>116</id>
+        <FirstName>кв.128</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Mobile">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>117</id>
+        <FirstName>кв.129</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>118</id>
+        <FirstName>кв.130</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Mobile">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>119</id>
+        <FirstName>кв.131</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Mobile">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>120</id>
+        <FirstName>кв.132</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>121</id>
+        <FirstName>кв.133,134</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Mobile">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>122</id>
+        <FirstName>кв.135</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Mobile">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>123</id>
+        <FirstName>кв.136</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>124</id>
+        <FirstName>кв.137,138,139,140</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Work">
+            <phonenumber></phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>125</id>
+        <FirstName>кв.141</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Mobile">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>126</id>
+        <FirstName>кв.142</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Mobile">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>127</id>
+        <FirstName>клининг менеджер</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>128</id>
+        <FirstName>офис криста</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Mobile">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>130</id>
+        <FirstName>охрана начальник</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>131</id>
+        <FirstName>управляющий</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>132</id>
+        <FirstName>техник максим</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>133</id>
+        <FirstName>охрана седов</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>134</id>
+        <FirstName>охрана проверяющий</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Mobile">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>135</id>
+        <FirstName>охрана коротаев</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>136</id>
+        <FirstName>охрана кучеров</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>137</id>
+        <FirstName>дежурный техник</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>1</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Mobile">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>138</id>
+        <FirstName>кв..107</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>139</id>
+        <FirstName>кв..111,112</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>140</id>
+        <FirstName>кв..125,126</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>141</id>
+        <FirstName>кв..128</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Mobile">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>142</id>
+        <FirstName>кв..131</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>143</id>
+        <FirstName>кв..133,134</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>144</id>
+        <FirstName>кв..24</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>145</id>
+        <FirstName>кв..34</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>146</id>
+        <FirstName>кв..41</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>147</id>
+        <FirstName>кв..50,77</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Mobile">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>148</id>
+        <FirstName>кв...50,77</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Mobile">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>149</id>
+        <FirstName>кв..52</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Mobile">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>150</id>
+        <FirstName>кв..62,64,73</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Mobile">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>151</id>
+        <FirstName>кв..65,66,67,68</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Mobile">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>152</id>
+        <FirstName>кв..70</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Mobile">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>153</id>
+        <FirstName>кв..74</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>154</id>
+        <FirstName>кв..80,89,90</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Mobile">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>155</id>
+        <FirstName>кв..81</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>156</id>
+        <FirstName>кв..83</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Mobile">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>157</id>
+        <FirstName>кв..85,114</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Mobile">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>158</id>
+        <FirstName>кв..91</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>159</id>
+        <FirstName>кв..93,118</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Mobile">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>160</id>
+        <FirstName>кв..95</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>161</id>
+        <FirstName>офис криста.</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Mobile">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>162</id>
+        <FirstName>охрана кпп</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>163</id>
+        <FirstName>охрана ресепшен</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>164</id>
+        <FirstName>кв..51</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>165</id>
+        <FirstName>кв..1</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Mobile">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>166</id>
+        <FirstName>офис криста..</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Mobile">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>167</id>
+        <FirstName>кв..31</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>168</id>
+        <FirstName>кв...85,114</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>169</id>
+        <FirstName>кв..104</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>170</id>
+        <FirstName>кв..109</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>171</id>
+        <FirstName>кв..78</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>172</id>
+        <FirstName>кв..39</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>173</id>
+        <FirstName>кв..96</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>174</id>
+        <FirstName>кв..59</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Mobile">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>175</id>
+        <FirstName>кв...62,64,73</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>176</id>
+        <FirstName>кв..4</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>177</id>
+        <FirstName>кв..49</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>178</id>
+        <FirstName>кв..8</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>179</id>
+        <FirstName>кв...59</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Phone type="Home">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>180</id>
+        <FirstName>кв..45</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>181</id>
+        <FirstName>временный управ.</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>182</id>
+        <FirstName>охран игорь старший</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>183</id>
+        <FirstName>Охрана Игорь</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail type="Work"></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>184</id>
+        <FirstName>кв..127</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>185</id>
+        <FirstName>кв...128</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>186</id>
+        <FirstName>кв..141</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+    <Contact>
+        <id>187</id>
+        <FirstName>кв...52</FirstName>
+        <LastName></LastName>
+        <Department></Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Work">
+            <phonenumber>+79991115588</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail></Mail>
+        <Group>248</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+</AddressBook>

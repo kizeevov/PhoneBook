@@ -1,0 +1,29 @@
+﻿<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:vm="clr-namespace:PhoneBook.ViewModels;assembly=PhoneBook"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="450" d:DesignHeight="800"
+        Width="450" Height="800"
+        x:Class="PhoneBook.Views.MainWindow"
+        Icon="/Assets/book.ico"
+        Title="PhoneBook">
+
+    <Design.DataContext>
+        <vm:MainWindowViewModel/>
+    </Design.DataContext>
+
+  <Grid RowDefinitions="54,*,25" Background="#fcfcfc">
+    <Grid Grid.Row="0" Background="#1ABC9C" 
+          ColumnDefinitions="16,*,24">
+      <TextBox Grid.Column="1" Watermark="Текст для поиска" 
+               Height="28"
+               VerticalAlignment="Center"/>
+    </Grid>
+
+
+    <Grid Grid.Row="2" Background="#BDC3C7">
+      
+    </Grid>
+  </Grid>
+</Window>
