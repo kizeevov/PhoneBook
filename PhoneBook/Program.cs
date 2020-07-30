@@ -3,6 +3,8 @@ using Avalonia;
 using Avalonia.Controls.ApplicationLifetimes;
 using Avalonia.Logging.Serilog;
 using Avalonia.ReactiveUI;
+using PhoneBook.ViewModels;
+using PhoneBook.Views;
 
 namespace PhoneBook
 {

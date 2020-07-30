@@ -1,10 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace PhoneBook.Models
+﻿namespace PhoneBook.Models
 {
-    class Phone
+    public class Phone
     {
+        public PhoneType PhoneType { get; set; }
+
+        public string PhoneNumber { get; set; }
     }
 }

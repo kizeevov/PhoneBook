@@ -8,22 +8,89 @@
         x:Class="PhoneBook.Views.MainWindow"
         Icon="/Assets/book.ico"
         Title="PhoneBook">
+  <Window.Styles>
+    <Style Selector="ListBox.MainListBox">
+      <Setter Property="Background" Value="Transparent"/>
+    </Style>
+
+    <Style Selector="Button.Header">
+      <Setter Property="Background" Value="#ffffff"/>
+      <Setter Property="Padding" Value="10 0 10 0"/>
+    </Style>
+    <Style Selector = "Button.Header/template/ContentPresenter">
+      <Setter Property="CornerRadius" Value="4" />
+    </Style>
+
+    <Style Selector="Button.Phone">
+      <Setter Property="Background" Value="#b0e1f2"/>
+      <Setter Property="Height" Value="24"/>
+      <Setter Property="Padding" Value="10 0 10 0"/>
+    </Style>
+    <Style Selector = "Button.Phone/template/ContentPresenter">
+      <Setter Property="CornerRadius" Value="4" />
+    </Style>
+  </Window.Styles>
 
     <Design.DataContext>
         <vm:MainWindowViewModel/>
     </Design.DataContext>
 
-  <Grid RowDefinitions="54,*,25" Background="#fcfcfc">
-    <Grid Grid.Row="0" Background="#1ABC9C" 
-          ColumnDefinitions="16,*,24">
-      <TextBox Grid.Column="1" Watermark="Текст для поиска" 
-               Height="28"
-               VerticalAlignment="Center"/>
+  <Grid RowDefinitions="Auto,*,25" Background="#fcfcfc">
+    <Grid Grid.Row="0" Background="#1ABC9C" ColumnDefinitions="*,Auto,Auto">
+
+      <TextBox Grid.Column="0" Watermark="Текст для поиска"
+               Text="{Binding SearchText}" Margin="14 8 14 8"
+               VerticalAlignment="Center">
+        <TextBox.ContextMenu>
+          <ContextMenu>
+            <MenuItem Header="Скопировать" Command="{Binding CopyValue}" CommandParameter="{Binding SearchText}"/>
+            <MenuItem Header="Вставить" Command="{Binding PasteSearchText}" />
+          </ContextMenu>
+        </TextBox.ContextMenu>
+      </TextBox>
+      <Button Grid.Column="1" Content="Очистить" Command="{Binding ClearSearchText}" Margin="0 0 5 0"  VerticalAlignment="Center"/>
     </Grid>
+
+    <ListBox Grid.Row="1" Items="{Binding Contacts}" 
+             VirtualizationMode="Simple" Classes="MainListBox">
+      <ListBox.ItemTemplate>
+        <DataTemplate>
+          <Grid>
+            <Border BorderThickness="0 0 0 1" BorderBrush="#dbdfe0"/>
+            
+            <Grid RowDefinitions="Auto,Auto" VerticalAlignment="Center" Margin="16 8 16 8">
+              <Button Grid.Row="0" HorizontalAlignment="Left" VerticalAlignment="Top"
+                      Classes="Header"
+                      Command="{Binding $parent[Window].DataContext.CopyValue}" CommandParameter="{Binding FirstName}"
+                      ToolTip.Tip="Нажмите для копирования текста">
+                <TextBlock Text="{Binding FirstName}"
+                           FontWeight="Bold"
+                           FontSize="16"/>
+              </Button>
+              
+              <ItemsRepeater Grid.Row="1" Items="{Binding Phones}" Margin="0 4 0 0">
+                <ItemsRepeater.ItemTemplate>
+                  <DataTemplate>
+                    <Button HorizontalAlignment="Left" VerticalAlignment="Top" Classes="Phone" IsEnabled="True"
+                            Command="{Binding $parent[Window].DataContext.CopyValue}" CommandParameter="{Binding PhoneNumber}"
+                            ToolTip.Tip="Нажмите для копирования текста">
+                      <TextBlock Text="{Binding PhoneNumber}" FontSize="14"/>
+                    </Button>
+                  </DataTemplate>
+                </ItemsRepeater.ItemTemplate>
+                <ItemsRepeater.Layout>
+                  <StackLayout Orientation="Horizontal" Spacing="4"/>
+                </ItemsRepeater.Layout>
+              </ItemsRepeater>
+            </Grid>
+          </Grid>
+        </DataTemplate>
+      </ListBox.ItemTemplate>
+    </ListBox>
 
 
     <Grid Grid.Row="2" Background="#BDC3C7">
-      
+      <TextBlock Text="{Binding UpdateStateText}" VerticalAlignment="Center" Margin="16 0 0 0"/>
     </Grid>
   </Grid>
 </Window>

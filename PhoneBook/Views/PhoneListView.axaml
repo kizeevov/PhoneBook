@@ -1,0 +1,43 @@
+﻿<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+             x:Class="PhoneBook.Views.PhoneListView">
+
+  <Grid RowDefinitions="54,*,25" Background="#fcfcfc">
+    <Grid Grid.Row="0" Background="#1ABC9C"
+          ColumnDefinitions="16,*,24">
+
+      <TextBox Grid.Column="1" Watermark="Текст для поиска"
+               Height="28"
+               VerticalAlignment="Center"/>
+    </Grid>
+
+    <ListBox Grid.Row="1" Items="{Binding Contacts}"
+             VirtualizationMode="Simple" Classes="MainListBox">
+      <ListBox.ItemTemplate>
+        <DataTemplate>
+          <Grid>
+            <Border BorderThickness="0 0 0 1" BorderBrush="#dbdfe0"/>
+            <Grid RowDefinitions="Auto,Auto" VerticalAlignment="Center" Margin="16 8 16 8">
+              <TextBlock Grid.Row="0"
+                         Text="{Binding FirstName}"
+                         FontWeight="Bold"
+                         FontSize="14"/>
+
+              <TextBlock Grid.Row="1" Margin="0 4 0 0"
+                         VerticalAlignment="Center"
+                         Text="{Binding PhonesString}"/>
+            </Grid>
+          </Grid>
+        </DataTemplate>
+      </ListBox.ItemTemplate>
+    </ListBox>
+
+
+    <Grid Grid.Row="2" Background="#BDC3C7">
+      <TextBlock Text="{Binding UpdateStateText}" VerticalAlignment="Center" Margin="16 0 0 0"/>
+    </Grid>
+  </Grid>
+</UserControl>

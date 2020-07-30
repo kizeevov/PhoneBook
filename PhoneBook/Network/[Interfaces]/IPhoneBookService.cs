@@ -1,6 +1,14 @@
-﻿namespace PhoneBook.Network
+﻿using System;
+using System.Collections.Generic;
+using PhoneBook.Common;
+using PhoneBook.Models;
+
+namespace PhoneBook.Network
 {
-    interface IPhoneBookService
+    public interface IPhoneBookService
     {
+        event EventHandler<UpdateStatus> UpdateStatusChanged;
+
+        IReadOnlyCollection<Contact> Contacts { get; }
     }
 }
